@@ -2,11 +2,11 @@
 
    "agenda" : [
 
-    { "id" : 1 , "nome" : "Ana" , "telefone" : "1111-1111"  },
+    { "dica1" : "Sensei" , "dica2" : "tem 2 olhos diferentes" , "dica3" : "superdotado de talento" , "resposta" : "Kakashi"  },
 
-    { "id" : 2 , "nome" : "Helder" , "telefone" : "2222-2222"  },
+    { "dica1" : "calado" , "dica2" : "sucesso com as mulheres" , "dica3" : "amigo do dono do anime" , "resposta" : "Sasuke"  },
 
-    { "id" : 3 , "nome" : "Fagno" , "telefone" : "3333-3333"  }
+    { "dica1" : "preguiçoso" , "dica2" : "muito inteligente" , "dica3" : "Qi Mais alto de todos" , "resposta" : "Shikamaru"  },
 
   ],
 
