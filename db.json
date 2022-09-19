@@ -8,16 +8,8 @@
 
     { "dica1" : "preguiçoso" , "dica2" : "muito inteligente" , "dica3" : "Qi Mais alto de todos" , "resposta" : "Shikamaru"  },
 
-  ],
-
-  "adicionais" : [
-
-    { "id" : 1 , "email" : "ana@ifto.edu.br"},
-
-    { "id" : 2 , "email" : "helder@ifto.edu.br"},
-
-    { "id" : 3 , "email" : "fagno@ifto.edu.br"}
-
   ]
+
+  
 
   }
